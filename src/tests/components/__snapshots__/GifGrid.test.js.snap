@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing <GifGrid /> should match snapshot 1`] = `
+<Fragment>
+  <h3>
+    one punch
+  </h3>
+  <p>
+    Loading...
+  </p>
+  <div
+    className="card-grid"
+  />
+</Fragment>
+`;

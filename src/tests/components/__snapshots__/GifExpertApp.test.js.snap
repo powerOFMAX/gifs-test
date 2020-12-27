@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Gif Expert App should match the snapshot 1`] = `
+<div
+  className="card animate__animated animate__fadeIn"
+>
+  <img
+    alt="soy un titulo"
+    src="https://localhost/asds.jpg"
+  />
+  <p>
+    soy un titulo
+  </p>
+</div>
+`;
